@@ -1,3 +1,3 @@
 Hi, I am aditya, Currently Grad student I.
-Focusing on- object recognization project.
-past work - (nothing)
+Focusing on- DECENTRALIZED FOR PUBLIC MODEL
+past work - object recognization project.
