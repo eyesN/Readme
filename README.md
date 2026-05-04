@@ -5,7 +5,7 @@
 ## Welcome
 
 I am a current pursuing **B.Tech in Computer Science** focusing on:
-### DATA PREPROCESSING, QUERY ANALYSICS
+### DATA PREPROCESSING, QUERY ANALYSIS
 
 My past work includes:
 * [**TOX**](#) - A comprehensive object recognition system.
