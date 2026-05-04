@@ -23,7 +23,7 @@ CLASSIFIED
 - **Tools:** [List your tools here, e.g., Python, PyTorch, Git]
 
 ### 🛠 Projects
-- **[Object Recognition](link-to-repo):** Implemented an object recognition system using [specific tech/algorithm].
+- **[Object Recognition](https://github.com/eyesN/TOX):** Implemented an object recognition system using [specific tech/algorithm].
 
  <!---### 📊 Stats
 [Add GitHub stats widgets here if desired]
