@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aditya;Machine+Learning+Enthusiast;DSA+%7C+Problem+Solving;Building+Cool+Things+🚀" />
+</p>
 ███████╗    ██╗   ██╗    ███████╗    ███████╗    ███╗   ██╗
 ██╔════╝    ╚██╗ ██╔╝    ██╔════╝    ██╔════╝    ████╗  ██║
 █████╗       ╚████╔╝     █████╗      ███████╗    ██╔██╗ ██║
