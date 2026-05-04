@@ -1,12 +1,13 @@
-███████╗██╗   ██╗███████╗███████╗███╗   ██╗
-██╔════╝╚██╗ ██╔╝██╔════╝██╔════╝████╗  ██║
-█████╗   ╚████╔╝ █████╗  ███████╗██╔██╗ ██║
-██╔══╝    ╚██╔╝  ██╔══╝  ╚════██║██║╚██╗██║
-███████╗   ██║   ███████╗███████║██║ ╚████║
-╚══════╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═══╝
+███████╗    ██╗   ██╗    ███████╗    ███████╗    ███╗   ██╗
+██╔════╝    ╚██╗ ██╔╝    ██╔════╝    ██╔════╝    ████╗  ██║
+█████╗       ╚████╔╝     █████╗      ███████╗    ██╔██╗ ██║
+██╔══╝        ╚██╔╝      ██╔══╝      ╚════██║    ██║╚██╗██║
+███████╗       ██║       ███████╗    ███████║    ██║ ╚████║
+╚══════╝       ╚═╝       ╚══════╝    ╚══════╝    ╚═╝  ╚═══╝
+                                                           
                                            
 
-                                         #
+                                                              #
 
 ## Welcome, I am Aditya
 
@@ -16,7 +17,7 @@ I am a current pursuing **Bachelor Degree** focusing on:
 My past work includes:
 * [**TOX**](#) - A comprehensive object recognition system.
 * More projects listed below.
-CLASSIFIED
+* CLASSIFIED
 ---
 ### 🌱 Current Work & Skills
 - **Focus:** DSA,Machine Learning,
@@ -36,7 +37,3 @@ CLASSIFIED
 ![](https://github-readme-stats.shion.dev/api?username=eyesn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://streak-stats.demolab.com/?user=eyesn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eyesn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
-
-### ⚡ Recent Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
