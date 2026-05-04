@@ -6,11 +6,11 @@
 ╚══════╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═══╝
                                            
 
-                                         # ADI
+                                         #
 
 ## Welcome, I am Aditya
 
-I am a current **Grad student** focusing on:
+I am a current pursuing **Bachelor Degree** focusing on:
 ### Data Preprocessing
 
 My past work includes:
