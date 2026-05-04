@@ -12,7 +12,7 @@
 
                                                               #
 
-## Welcome, I am Aditya
+## Welcome
 
 I am a current pursuing **Bachelor Degree** focusing on:
 ### Data Preprocessing
