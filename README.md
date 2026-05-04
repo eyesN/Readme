@@ -38,8 +38,8 @@ My past work includes:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=eyesN&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api?username=eyesN&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60&v=3)
 
-![](https://streak-stats.demolab.com?user=eyesN&theme=dark&hide_border=false&cache_seconds=60)
+![](https://streak-stats.demolab.com?user=eyesN&theme=dark&hide_border=false&cache_seconds=60&v=3)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyesN&layout=compact&theme=dark&hide_border=false&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyesN&layout=compact&theme=dark&hide_border=false&cache_seconds=60&v=3)
