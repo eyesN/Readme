@@ -1,21 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aditya;Machine+Learning+Enthusiast;DSA+%7C+Problem+Solving;Building+Cool+Things+🚀" />
 </p>
-███████╗    ██╗   ██╗    ███████╗    ███████╗    ███╗   ██╗
-██╔════╝    ╚██╗ ██╔╝    ██╔════╝    ██╔════╝    ████╗  ██║
-█████╗       ╚████╔╝     █████╗      ███████╗    ██╔██╗ ██║
-██╔══╝        ╚██╔╝      ██╔══╝      ╚════██║    ██║╚██╗██║
-███████╗       ██║       ███████╗    ███████║    ██║ ╚████║
-╚══════╝       ╚═╝       ╚══════╝    ╚══════╝    ╚═╝  ╚═══╝
-                                                           
-                                           
-
-                                                              #
 
 ## Welcome
 
-I am a current pursuing **Bachelor Degree** focusing on:
-### Data Preprocessing
+I am a current pursuing **B.Tech in Computer Science** focusing on:
+### DATA PREPROCESSING, QUERY ANALYSICS
 
 My past work includes:
 * [**TOX**](#) - A comprehensive object recognition system.
@@ -24,10 +14,10 @@ My past work includes:
 ---
 ### 🌱 Current Work & Skills
 - **Focus:** DSA,Machine Learning,
-- **Tools:** [List your tools here, e.g., Python, PyTorch, Git]
 
 ### 🛠 Projects
 - **[Object Recognition](https://github.com/eyesN/TOX):** Implemented an object recognition system using [specific tech/algorithm].
+- **[FORCESIGHT](https://github.com/eyesN/forcesight):** A tool for tracking objects and then calculating forces upon it.
 
  <!---### 📊 Stats
 [Add GitHub stats widgets here if desired]
