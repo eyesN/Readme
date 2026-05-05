@@ -33,11 +33,6 @@ My past work includes:
 ![](https://streak-stats.demolab.com?user=eyesN&theme=dark&hide_border=false&cache_seconds=60&v=3)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyesN&layout=compact&theme=dark&hide_border=false&cache_seconds=60&v=3)
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=eyesN&theme=tokyo-night&hide_border=true)
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/eyesN/eyesN/blob/output/github-contribution-grid-snake.svg)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=eyesN&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
