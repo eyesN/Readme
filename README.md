@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Aditya;Machine+Learning;Started+DSA+%7C+Problem+Solving;Building+Cool+Things+🚀" />
 </p>
 
-## Welcome
+## Welcome<h1>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RjZ2NoOW5kZm1ueGVsMzlleGJxZzhkb3k4N3k1b3lvM2JnNmVlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif" width="40px"/>
+</h1>
 
 I am a current pursuing **B.Tech in Computer Science** focusing on:
 ### DATA PREPROCESSING, QUERY ANALYSIS
