@@ -9,9 +9,15 @@ I am a current pursuing **B.Tech in Computer Science** focusing on:
 ### DATA PREPROCESSING, QUERY ANALYSIS
 
 My past work includes:
-* [**TOX**](#) - A comprehensive object recognition system.
-* More projects listed below.
-* CLASSIFIED
+* LSTM-MODEL: a ML powered route to predict closest distance Between two places.
+
+* Project-K: an offiline extension for censoring hate speech and offensive words in social media post, conetent online . also published on firefox extension store.
+
+* Force sight: A Tool to demonstrate young enthusastic learners about  Forces acting on a object on an inclined plane or on simple object.
+
+* Ghost-Mesh: Encrypted Texting Site which is  enriched in encrypting using mutliple cryptography methods.
+
+
 ---
 ### 🌱 Current Work & Skills
 - **Focus:** DSA,Machine Learning,
